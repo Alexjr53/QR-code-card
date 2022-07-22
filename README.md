@@ -1,7 +1,9 @@
 # Frontend Mentor - Solução do QR code component
 
 Esta é uma solução para o [Desafio QR code component no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
-[![NPM](https://img.shields.io/bower/l/MI)](colocar a licenca)
+
+[![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/QR-code-card/blob/main/LICENSE)
+
 ## Índice
 
 - [Visão geral](#visão-geral)
@@ -28,8 +30,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução URL: [QR code preview - Frontend mentor](minha-solução)
-- URL da página: [QR code preview](site-github) 
+- Solução URL: [QR code preview - Frontend mentor](https://www.frontendmentor.io/solutions/qr-code-card-component-j6cSiBTBXR)
+- URL da página: [QR code preview](https://alexjr53.github.io/QR-code-card/) 
 
 ## Meu processo
 
