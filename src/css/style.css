@@ -1,0 +1,37 @@
+html{
+    font-size: 62.5%;
+}
+
+main{
+    font-family: 'Outfit', sans-serif;
+    min-height: 100vh;
+    background-color: var(--main-bg-color);
+    display: flex;
+    justify-content: center;
+    align-items: center;   
+}
+
+.container{
+    max-width: 32rem;
+    padding: 1.8rem;
+    border-radius: 1.5rem;
+    background-color: var(--card-bg-color);
+    text-align: center;
+}
+
+.container .qr-code{
+    width: 100%;
+    border-radius: 1rem;
+}
+
+.container .title{
+    padding: 2.2rem 1rem 0;
+    font-size: 2.2rem;
+    color: var(--title-primary-color);
+}
+
+.container .info{
+    padding: 1.6rem 1rem 2.5rem;
+    font-size: 1.5rem;
+    color: var(--text-color);
+}
