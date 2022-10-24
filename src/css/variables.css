@@ -1,6 +1,6 @@
 :root{
     --main-bg-color: hsl(212, 45%, 89%);
     --card-bg-color: hsl(0, 0%, 100%);
-    --title-primary-color: hsl(218, 44%, 22%);
+    --title-color: hsl(218, 44%, 22%);
     --text-color: hsl(220, 15%, 55%);
 }

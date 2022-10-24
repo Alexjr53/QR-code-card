@@ -1,6 +1,6 @@
-# Frontend Mentor - Solução do QR code component
+# Desafio frontend Mentor - Solução do QR code component
 
-Esta é uma solução para o [Desafio QR code component no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o [Desafio QR code component no Frontend Mentor](https://www.frontendmentor.io/challenges/qr-code-component-iux_sIO_H).
 
 [![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/QR-code-card/blob/main/LICENSE)
 
@@ -22,15 +22,15 @@ Esta é uma solução para o [Desafio QR code component no Frontend Mentor](http
 
 Os usuários devem ser capazes de:
 
-- Visualize o layout ideal para a página, dependendo do tamanho da tela do dispositivo
+- criar o layout ideal para a página, dependendo do tamanho da tela do dispositivo
 - Veja os estados de foco para todos os elementos interativos na página
 
 ### Screenshot
-![QR code](src/images/screenshot.png)
+![QR code](src/design/screenshot.png)
 
 ### Links
 
-- Solução URL: [QR code preview - Frontend mentor](https://www.frontendmentor.io/solutions/qr-code-card-component-j6cSiBTBXR)
+- Solução do desafio: [QR code preview - Frontend mentor](https://www.frontendmentor.io/solutions/qr-code-card-component-j6cSiBTBXR)
 - URL da página: [QR code preview](https://alexjr53.github.io/QR-code-card/) 
 
 ## Meu processo
