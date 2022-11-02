@@ -30,8 +30,9 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução do desafio: [QR code preview - Frontend mentor](https://www.frontendmentor.io/solutions/qr-code-card-component-j6cSiBTBXR)
+- Solução do desafio no frontend mentor: [QR code preview - Frontend mentor](https://www.frontendmentor.io/solutions/qr-code-card-component-j6cSiBTBXR)
 - URL da página: [QR code preview](https://alexjr53.github.io/QR-code-card/) 
+- Repositório do projeto no GitHub: [QR code preview](https://github.com/Alexjr53/QR-code-card)
 
 ## Meu processo
 
