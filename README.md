@@ -16,7 +16,7 @@ Esta é uma solução para o [Desafio QR code component no Frontend Mentor](http
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-  ## Visão geral
+## Visão geral
 
 ### Desafio
 
